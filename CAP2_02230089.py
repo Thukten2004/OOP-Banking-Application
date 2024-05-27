@@ -1,3 +1,11 @@
+#Thukten Yezer
+#02230089
+#1 EE
+#CSF Assignment 2
+#https://www.blackbox.ai/(Blackbox)
+#https://chatgpt.com/c/fc92ce4c-cd50-4435-8d93-f2f7979d6014(chat gpt)
+#copilot
+#Coding in Finance: How to learn & 5 Great Finance Coding Jobs. (n.d.). https://www.appacademy.io/blog/coding-in-finance#:~:text=Most%20financial%20programmers%20should%20start,languages%20will%20be%20valuable%20assets.
 import random  # We should import the random module in order to generate different random account numbers and passwords 
 import os  # Then we should be Importing the os module to check file existence and to provide a functions for interacting with the operating system
 
